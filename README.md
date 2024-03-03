@@ -1,6 +1,11 @@
 RESEARCH REPORT LINK https://docs.google.com/document/d/11OCTzzIjTH4CchZlIolv_u5UHDG1j1fFcCSI0NJhYeE/edit?usp=sharing
 Please go through the report as it has my research in detail
 
+CUSTOM NER MODEL HAS BEEN HOSTED ON HUGGING FACES: https://huggingface.co/aryan10022001/en_predii_ner
+THE MODEL INFERENCE LINK:https://huggingface.co/spaces/aryan10022001/predii_ner
+
+llama model is stored here:https://huggingface.co/aryan10022001/llama-7b-train_quantized
+
 CUSTOM ENTITY RECOGNITION
 
 
