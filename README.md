@@ -19,13 +19,6 @@ Accurate entity recognition is vital for downstream tasks like sentiment analysi
 
 By proficiently identifying and categorising automotive entities, this research aims to enable better data analysis, decision-making, and innovation within the automotive landscape.
 
-
-CUSTOM NER MODEL HAS BEEN HOSTED ON HUGGING FACES https://huggingface.co/aryan10022001/en_predii_ner
-THE MODEL INFERENCE LINK:
-https://huggingface.co/spaces/aryan10022001/predii_ner
-
-llama model is stored here:https://huggingface.co/aryan10022001/llama-7b-train_quantized
-
 COMPARISON:
 SPACY model seems to be working much better and providing much better results because of the smaller size of spacy model,better BILOU tagging and Better encoding properties as it is based on BERT(BIDIRECTIONAL ENCODER REPRESENTATIONAL OF TRANSFORMERS)
 While llama-7B is very much capable of doing ner ,but since i have the constraints of GPU and and thus token size is very small for inference and hence the results are not that good
