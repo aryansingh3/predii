@@ -1,0 +1,3464 @@
+{
+    "classes": [
+        "COMPONENT",
+        "FAILURE ISSUE",
+        "VEHICLE MODEL",
+        "CORRECTIVE ACTION",
+        "MANUFACTURER",
+        "CHASSIS TYPE",
+        "PROCESS",
+        "PARTS"
+    ],
+    "annotations": [
+        [
+            "FORD        FOCUS ELECTRICAL SYSTEM 12V/24V/48V BATTERY:CABLES FORD MOTOR COMPANY  ODI Ford Motor Company 20021106 CERTAIN PASSENGER VEHICLES EQUIPPED WITH ZETEC ENGINES, LOOSE OR BROKEN ATTACHMENTS AND MISROUTED BATTERY CABLES COULD LEAD TO CABLE INSULATION DAMAGE.        THIS, IN TURN, COULD CAUSE THE BATTERY CABLES TO SHORT RESULTING IN HEAT DAMAGE TO THE CABLES.  BESIDES HEAT DAMAGE, THE \"CHECK ENGINE\" LIGHT MAY ILLUMINATE, THE VEHICLE MAY FAIL TO START, OR SMOKE, MELTING, OR FIRE COULD ALSO OCCUR.        DEALERS WILL INSPECT THE BATTERY CABLES FOR THE CONDITION OF THE CABLE INSULATION AND PROPER TIGHTENING OF THE TERMINAL ENDS.  AS NECESSARY, CABLES WILL BE REROUTED, RETAINING CLIPS INSTALLED, AND DAMAGED BATTERY CABLES REPLACED.   OWNER NOTIFICATION BEGAN FEBRUARY 10, 2003.   OWNERS WHO DO NOT RECEIVE THE FREE REMEDY  WITHIN A REASONABLE TIME SHOULD CONTACT FORD AT 1-866-436-7332.ALSO CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT (1-888-327-4236)\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        4,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        18,
+                        35,
+                        "COMPONENT"
+                    ],
+                    [
+                        48,
+                        55,
+                        "COMPONENT"
+                    ],
+                    [
+                        63,
+                        81,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        87,
+                        105,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        123,
+                        141,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        142,
+                        169,
+                        "COMPONENT"
+                    ],
+                    [
+                        171,
+                        198,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        203,
+                        227,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        248,
+                        266,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        323,
+                        353,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        436,
+                        461,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        466,
+                        471,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        473,
+                        480,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        485,
+                        489,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        601,
+                        618,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        671,
+                        679,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        681,
+                        706,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        720,
+                        744,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        823,
+                        834,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        868,
+                        880,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        912,
+                        964,
+                        "CORRECTIVE ACTION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\r",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "\r",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "FORD        FOCUS ELECTRICAL SYSTEM:12V/24V/48V BATTERY CABLES FORD MOTOR COMPANY ODI Ford Motor Company CERTAIN PASSENGER VEHICLES EQUIPPED WITH ZETEC ENGINES, LOOSE OR BROKEN ATTACHMENTS AND MISROUTED BATTERY CABLES COULD LEAD TO CABLE INSULATION DAMAGE.        THIS, IN TURN, COULD CAUSE THE BATTERY CABLES TO SHORT RESULTING IN HEAT DAMAGE TO THE CABLES.  BESIDES HEAT DAMAGE, THE \"CHECK ENGINE\" LIGHT MAY ILLUMINATE, THE VEHICLE MAY FAIL TO START, OR SMOKE, MELTING, OR FIRE COULD ALSO OCCUR.        DEALERS WILL INSPECT THE BATTERY CABLES FOR THE CONDITION OF THE CABLE INSULATION AND PROPER TIGHTENING OF THE TERMINAL ENDS.  AS NECESSARY, CABLES WILL BE REROUTED, RETAINING CLIPS INSTALLED, AND DAMAGED BATTERY CABLES REPLACED.   OWNER NOTIFICATION BEGAN FEBRUARY 10, 2003.   OWNERS WHO DO NOT RECEIVE THE FREE REMEDY  WITHIN A REASONABLE TIME SHOULD CONTACT FORD .ALSO CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        4,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        18,
+                        47,
+                        "COMPONENT"
+                    ],
+                    [
+                        48,
+                        62,
+                        "COMPONENT"
+                    ],
+                    [
+                        63,
+                        81,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        86,
+                        104,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        113,
+                        131,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        146,
+                        159,
+                        "COMPONENT"
+                    ],
+                    [
+                        161,
+                        166,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        170,
+                        188,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        193,
+                        217,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        232,
+                        256,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        313,
+                        343,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        386,
+                        420,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        456,
+                        461,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        463,
+                        470,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        475,
+                        479,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        518,
+                        544,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        570,
+                        586,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        591,
+                        608,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        661,
+                        669,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        671,
+                        696,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        710,
+                        734,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        813,
+                        824,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        889,
+                        937,
+                        "CORRECTIVE ACTION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "HOLIDAY RAMBLER        VACATIONER         STRUCTURE        MONACO COACH CORP.                MONACO COACH CORPORATION ON CERTAIN CLASS A MOTOR HOMES, THE FLOOR TRUSS NETWORK SUPPORT SYSTEM HAS A POTENTIAL TO WEAKEN CAUSING INTERNAL AND EXTERNAL FEATURES TO BECOME MISALIGNED.  THE AFFECTED VEHICLES ARE 1999 - 2003 CLASS A MOTOR HOMES MANUFACTURED ON F53 20,500 POUND GROSS VEHICLE WEIGHT RATING (GVWR), FORD CHASSIS, AND 2000-2003 CLASS A MOTOR HOMES MANUFACTURED ON W-22 22,000 POUND GVWR, WORKHORSE CHASSIS.        CONDITIONS CAN RESULT IN THE BOTTOMING OUT THE SUSPENSION AND AMPLIFICATION OF THE STRESS PLACED ON THE FLOOR TRUSS NETWORK.  THE ADDITIONAL STRESS CAN RESULT IN THE FRACTURE OF WELDS SECURING THE FLOOR TRUSS NETWORK SYSTEM TO THE CHASSIS FRAME RAIL AND/OR FRACTURE OF THE FLOOR TRUSS NETWORK SUPPORT SYSTEM.  THE POSSIBILITY EXISTS THAT THERE COULD BE DAMAGE TO ELECTRICAL WIRING AND/OR FUEL LINES WHICH COULD POTENTIALLY LEAD TO A FIRE.        DEALERS WILL INSPECT THE FLOOR TRUSS NETWORK SUPPORT SYSTEM, REINFORCE THE EXISTING STRUCTURE, AND REPAIR, AS NEEDED, THE FLOOR TRUSS NETWORK SUPPORT.   OWNER NOTIFICATION BEGAN NOVEMBER 5, 2002.  OWNERS SHOULD CONTACT MONACO AT 1-800-685-6545.CUSTOMERS CAN ALSO CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT (1-888-327-4236).\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        33,
+                        "COMPONENT"
+                    ],
+                    [
+                        59,
+                        77,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        93,
+                        117,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        129,
+                        142,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        150,
+                        181,
+                        "COMPONENT"
+                    ],
+                    [
+                        208,
+                        214,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        264,
+                        275,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        303,
+                        334,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        351,
+                        395,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        404,
+                        416,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        422,
+                        445,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        468,
+                        490,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        492,
+                        510,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        547,
+                        575,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        580,
+                        607,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        622,
+                        642,
+                        "COMPONENT"
+                    ],
+                    [
+                        684,
+                        701,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        715,
+                        741,
+                        "COMPONENT"
+                    ],
+                    [
+                        775,
+                        810,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        871,
+                        898,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        951,
+                        956,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        977,
+                        1000,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1025,
+                        1057,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1063,
+                        1069,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1086,
+                        1114,
+                        "COMPONENT"
+                    ],
+                    [
+                        1175,
+                        1189,
+                        "COMPONENT"
+                    ],
+                    [
+                        1239,
+                        1287,
+                        "COMPONENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "HOLIDAY RAMBLER        ENDEAVOR        2001        STRUCTURE        MONACO COACH CORP.        MFR        MONACO COACH CORPORATION        ON CERTAIN CLASS A MOTOR HOMES, THE FLOOR TRUSS NETWORK SUPPORT SYSTEM HAS A POTENTIAL TO WEAKEN CAUSING INTERNAL AND EXTERNAL FEATURES TO BECOME MISALIGNED.  THE AFFECTED VEHICLES ARE 1999 - 2003 CLASS A MOTOR HOMES MANUFACTURED ON F53 20,500 POUND GROSS VEHICLE WEIGHT RATING (GVWR), FORD CHASSIS, AND 2000-2003 CLASS A MOTOR HOMES MANUFACTURED ON W-22 22,000 POUND GVWR, WORKHORSE CHASSIS.        CONDITIONS CAN RESULT IN THE BOTTOMING OUT THE SUSPENSION AND AMPLIFICATION OF THE STRESS PLACED ON THE FLOOR TRUSS NETWORK.  THE ADDITIONAL STRESS CAN RESULT IN THE FRACTURE OF WELDS SECURING THE FLOOR TRUSS NETWORK SYSTEM TO THE CHASSIS FRAME RAIL AND/OR FRACTURE OF THE FLOOR TRUSS NETWORK SUPPORT SYSTEM.  THE POSSIBILITY EXISTS THAT THERE COULD BE DAMAGE TO ELECTRICAL WIRING AND/OR FUEL LINES WHICH COULD POTENTIALLY LEAD TO A FIRE.        DEALERS WILL INSPECT THE FLOOR TRUSS NETWORK SUPPORT SYSTEM, REINFORCE THE EXISTING STRUCTURE, AND REPAIR, AS NEEDED, THE FLOOR TRUSS NETWORK SUPPORT.   OWNER NOTIFICATION BEGAN NOVEMBER 5, 2002.  OWNERS SHOULD CONTACT MONACO AT 1-800-685-6545.CUSTOMERS CAN ALSO CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        31,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        68,
+                        86,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        105,
+                        129,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        148,
+                        167,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        173,
+                        207,
+                        "COMPONENT"
+                    ],
+                    [
+                        227,
+                        233,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        264,
+                        294,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        322,
+                        347,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        370,
+                        414,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        423,
+                        435,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        487,
+                        509,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        511,
+                        529,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        566,
+                        594,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        599,
+                        626,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        641,
+                        661,
+                        "COMPONENT"
+                    ],
+                    [
+                        667,
+                        684,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        703,
+                        720,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        734,
+                        760,
+                        "COMPONENT"
+                    ],
+                    [
+                        794,
+                        845,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        890,
+                        917,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        970,
+                        975,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        996,
+                        1003,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1044,
+                        1076,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1082,
+                        1088,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1105,
+                        1133,
+                        "COMPONENT"
+                    ],
+                    [
+                        1194,
+                        1208,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1246,
+                        1253,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1258,
+                        1306,
+                        "CORRECTIVE ACTION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "MONACO COACH 2000 STRUCTURE MONACO COACH CORP.         MONACO COACH CORPORATION ON CERTAIN CLASS A MOTOR HOMES, THE FLOOR TRUSS NETWORK SUPPORT SYSTEM HAS A POTENTIAL TO WEAKEN CAUSING INTERNAL AND EXTERNAL FEATURES TO BECOME MISALIGNED.  THE AFFECTED VEHICLES ARE 1999 - 2003 CLASS A MOTOR HOMES MANUFACTURED ON F53 20,500 POUND GROSS VEHICLE WEIGHT RATING (GVWR), FORD CHASSIS, AND 2000-2003 CLASS A MOTOR HOMES MANUFACTURED ON W-22 22,000 POUND GVWR, WORKHORSE CHASSIS.        CONDITIONS CAN RESULT IN THE BOTTOMING OUT THE SUSPENSION AND AMPLIFICATION OF THE STRESS PLACED ON THE FLOOR TRUSS NETWORK.  THE ADDITIONAL STRESS CAN RESULT IN THE FRACTURE OF WELDS SECURING THE FLOOR TRUSS NETWORK SYSTEM TO THE CHASSIS FRAME RAIL AND/OR FRACTURE OF THE FLOOR TRUSS NETWORK SUPPORT SYSTEM.  THE POSSIBILITY EXISTS THAT THERE COULD BE DAMAGE TO ELECTRICAL WIRING AND/OR FUEL LINES WHICH COULD POTENTIALLY LEAD TO A FIRE.        DEALERS WILL INSPECT THE FLOOR TRUSS NETWORK SUPPORT SYSTEM, REINFORCE THE EXISTING STRUCTURE, AND REPAIR, AS NEEDED, THE FLOOR TRUSS NETWORK SUPPORT.   OWNER NOTIFICATION BEGAN NOVEMBER 5, 2002.  OWNERS SHOULD CONTACT MONACO AT 1-800-685-6545.        CUSTOMERS CAN ALSO CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        12,
+                        "COMPONENT"
+                    ],
+                    [
+                        28,
+                        46,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        55,
+                        79,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        91,
+                        110,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        116,
+                        150,
+                        "COMPONENT"
+                    ],
+                    [
+                        170,
+                        176,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        226,
+                        237,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        265,
+                        296,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        313,
+                        363,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        366,
+                        378,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        384,
+                        413,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        430,
+                        452,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        454,
+                        472,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        509,
+                        537,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        542,
+                        569,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        584,
+                        604,
+                        "COMPONENT"
+                    ],
+                    [
+                        610,
+                        627,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        632,
+                        663,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        677,
+                        703,
+                        "COMPONENT"
+                    ],
+                    [
+                        711,
+                        729,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        737,
+                        745,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        749,
+                        788,
+                        "COMPONENT"
+                    ],
+                    [
+                        833,
+                        860,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        913,
+                        918,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        939,
+                        946,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        951,
+                        985,
+                        "COMPONENT"
+                    ],
+                    [
+                        987,
+                        1019,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1025,
+                        1031,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1044,
+                        1076,
+                        "COMPONENT"
+                    ],
+                    [
+                        1137,
+                        1151,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1205,
+                        1277,
+                        "CORRECTIVE ACTION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "HOLIDAY RAMBLER        VACATIONER        2002 STRUCTURE        MONACO COACH CORP. MFR MONACO COACH CORPORATION        ON CERTAIN CLASS A MOTOR HOMES, THE FLOOR TRUSS NETWORK SUPPORT SYSTEM HAS A POTENTIAL TO WEAKEN CAUSING INTERNAL AND EXTERNAL FEATURES TO BECOME MISALIGNED.  THE AFFECTED VEHICLES ARE 1999 - 2003 CLASS A MOTOR HOMES MANUFACTURED ON F53 20,500 POUND GROSS VEHICLE WEIGHT RATING (GVWR), FORD CHASSIS, AND 2000-2003 CLASS A MOTOR HOMES MANUFACTURED ON W-22 22,000 POUND GVWR, WORKHORSE CHASSIS.        CONDITIONS CAN RESULT IN THE BOTTOMING OUT THE SUSPENSION AND AMPLIFICATION OF THE STRESS PLACED ON THE FLOOR TRUSS NETWORK.  THE ADDITIONAL STRESS CAN RESULT IN THE FRACTURE OF WELDS SECURING THE FLOOR TRUSS NETWORK SYSTEM TO THE CHASSIS FRAME RAIL AND/OR FRACTURE OF THE FLOOR TRUSS NETWORK SUPPORT SYSTEM.  THE POSSIBILITY EXISTS THAT THERE COULD BE DAMAGE TO ELECTRICAL WIRING AND/OR FUEL LINES WHICH COULD POTENTIALLY LEAD TO A FIRE.        DEALERS WILL INSPECT THE FLOOR TRUSS NETWORK SUPPORT SYSTEM, REINFORCE THE EXISTING STRUCTURE, AND REPAIR, AS NEEDED, THE FLOOR TRUSS NETWORK SUPPORT.   OWNER NOTIFICATION BEGAN NOVEMBER 5, 2002.  OWNERS SHOULD CONTACT MONACO AT 1-800-685-6545.        CUSTOMERS CAN ALSO CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT (1-888-327-4236).\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        33,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        63,
+                        81,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        86,
+                        110,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        129,
+                        148,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        150,
+                        188,
+                        "COMPONENT"
+                    ],
+                    [
+                        208,
+                        214,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        257,
+                        275,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        315,
+                        334,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        351,
+                        395,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        404,
+                        416,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        468,
+                        490,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        492,
+                        510,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        547,
+                        575,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        580,
+                        607,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        622,
+                        642,
+                        "COMPONENT"
+                    ],
+                    [
+                        648,
+                        665,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        684,
+                        701,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        715,
+                        741,
+                        "COMPONENT"
+                    ],
+                    [
+                        749,
+                        767,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        775,
+                        783,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        791,
+                        826,
+                        "COMPONENT"
+                    ],
+                    [
+                        871,
+                        898,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        951,
+                        956,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        977,
+                        984,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        989,
+                        1023,
+                        "COMPONENT"
+                    ],
+                    [
+                        1025,
+                        1057,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1063,
+                        1069,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1086,
+                        1114,
+                        "COMPONENT"
+                    ],
+                    [
+                        1175,
+                        1189,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1247,
+                        1295,
+                        "CORRECTIVE ACTION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "HOLIDAY RAMBLER        ADMIRAL STRUCTURE MONACO COACH CORP.        MFR MONACO COACH CORPORATION ON CERTAIN CLASS A MOTOR HOMES, THE FLOOR TRUSS NETWORK SUPPORT SYSTEM HAS A POTENTIAL TO WEAKEN CAUSING INTERNAL AND EXTERNAL FEATURES TO BECOME MISALIGNED.  THE AFFECTED VEHICLES ARE 1999 - 2003 CLASS A MOTOR HOMES MANUFACTURED ON F53 20,500 POUND GROSS VEHICLE WEIGHT RATING (GVWR), FORD CHASSIS, AND 2000-2003 CLASS A MOTOR HOMES MANUFACTURED ON W-22 22,000 POUND GVWR, WORKHORSE CHASSIS.CONDITIONS CAN RESULT IN THE BOTTOMING OUT THE SUSPENSION AND AMPLIFICATION OF THE STRESS PLACED ON THE FLOOR TRUSS NETWORK.  THE ADDITIONAL STRESS CAN RESULT IN THE FRACTURE OF WELDS SECURING THE FLOOR TRUSS NETWORK SYSTEM TO THE CHASSIS FRAME RAIL AND/OR FRACTURE OF THE FLOOR TRUSS NETWORK SUPPORT SYSTEM.  THE POSSIBILITY EXISTS THAT THERE COULD BE DAMAGE TO ELECTRICAL WIRING AND/OR FUEL LINES WHICH COULD POTENTIALLY LEAD TO A FIRE.        DEALERS WILL INSPECT THE FLOOR TRUSS NETWORK SUPPORT SYSTEM, REINFORCE THE EXISTING STRUCTURE, AND REPAIR, AS NEEDED, THE FLOOR TRUSS NETWORK SUPPORT.   OWNER NOTIFICATION BEGAN NOVEMBER 5, 2002.  OWNERS SHOULD CONTACT MONACO AT 1-800-685-6545.        CUSTOMERS CAN ALSO CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT (1-888-327-4236).\r",
+            {
+                "entities": [
+                    [
+                        8,
+                        40,
+                        "COMPONENT"
+                    ],
+                    [
+                        41,
+                        59,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        71,
+                        95,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        107,
+                        126,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        132,
+                        166,
+                        "COMPONENT"
+                    ],
+                    [
+                        186,
+                        192,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        242,
+                        253,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        293,
+                        312,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        329,
+                        373,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        382,
+                        394,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        410,
+                        429,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        446,
+                        468,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        470,
+                        498,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        517,
+                        545,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        550,
+                        577,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        592,
+                        612,
+                        "COMPONENT"
+                    ],
+                    [
+                        618,
+                        635,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        654,
+                        671,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        685,
+                        711,
+                        "COMPONENT"
+                    ],
+                    [
+                        719,
+                        737,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        745,
+                        753,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        761,
+                        796,
+                        "COMPONENT"
+                    ],
+                    [
+                        841,
+                        868,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        921,
+                        926,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        947,
+                        954,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        959,
+                        993,
+                        "COMPONENT"
+                    ],
+                    [
+                        995,
+                        1004,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1033,
+                        1039,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1056,
+                        1075,
+                        "COMPONENT"
+                    ],
+                    [
+                        1145,
+                        1159,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1217,
+                        1265,
+                        "CORRECTIVE ACTION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "MONACO COACH MONARCH STRUCTURE MONACO COACH CORP.        MFR        MONACO COACH CORPORATION ON CERTAIN CLASS A MOTOR HOMES, THE FLOOR TRUSS NETWORK SUPPORT SYSTEM HAS A POTENTIAL TO WEAKEN CAUSING INTERNAL AND EXTERNAL FEATURES TO BECOME MISALIGNED.  THE AFFECTED VEHICLES ARE 1999 - 2003 CLASS A MOTOR HOMES MANUFACTURED ON F53 20,500 POUND GROSS VEHICLE WEIGHT RATING (GVWR), FORD CHASSIS, AND 2000-2003 CLASS A MOTOR HOMES MANUFACTURED ON W-22 22,000 POUND GVWR, WORKHORSE CHASSIS.CONDITIONS CAN RESULT IN THE BOTTOMING OUT THE SUSPENSION AND AMPLIFICATION OF THE STRESS PLACED ON THE FLOOR TRUSS NETWORK.  THE ADDITIONAL STRESS CAN RESULT IN THE FRACTURE OF WELDS SECURING THE FLOOR TRUSS NETWORK SYSTEM TO THE CHASSIS FRAME RAIL AND/OR FRACTURE OF THE FLOOR TRUSS NETWORK SUPPORT SYSTEM.  THE POSSIBILITY EXISTS THAT THERE COULD BE DAMAGE TO ELECTRICAL WIRING AND/OR FUEL LINES WHICH COULD POTENTIALLY LEAD TO A FIRE.        DEALERS WILL INSPECT THE FLOOR TRUSS NETWORK SUPPORT SYSTEM, REINFORCE THE EXISTING STRUCTURE, AND REPAIR, AS NEEDED, THE FLOOR TRUSS NETWORK SUPPORT.   OWNER NOTIFICATION BEGAN NOVEMBER 5, 2002.  OWNERS SHOULD CONTACT MONACO AT 1-800-685-6545.CUSTOMERS CAN ALSO CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        30,
+                        "COMPONENT"
+                    ],
+                    [
+                        31,
+                        49,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        68,
+                        92,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        104,
+                        123,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        125,
+                        163,
+                        "COMPONENT"
+                    ],
+                    [
+                        183,
+                        189,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        239,
+                        250,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        290,
+                        309,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        326,
+                        370,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        379,
+                        391,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        407,
+                        426,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        443,
+                        465,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        467,
+                        495,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        514,
+                        542,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        547,
+                        560,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        589,
+                        609,
+                        "COMPONENT"
+                    ],
+                    [
+                        615,
+                        632,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        651,
+                        668,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        682,
+                        708,
+                        "COMPONENT"
+                    ],
+                    [
+                        716,
+                        734,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        742,
+                        750,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        758,
+                        793,
+                        "COMPONENT"
+                    ],
+                    [
+                        838,
+                        865,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        918,
+                        923,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        944,
+                        951,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        952,
+                        990,
+                        "COMPONENT"
+                    ],
+                    [
+                        992,
+                        1001,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1030,
+                        1036,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1053,
+                        1072,
+                        "COMPONENT"
+                    ],
+                    [
+                        1142,
+                        1156,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1206,
+                        1254,
+                        "CORRECTIVE ACTION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "MONACO COACH 2001 STRUCTURE MONACO COACH CORP.        MFR        MONACO COACH CORPORATION        ON CERTAIN CLASS A MOTOR HOMES, THE FLOOR TRUSS NETWORK SUPPORT SYSTEM HAS A POTENTIAL TO WEAKEN CAUSING INTERNAL AND EXTERNAL FEATURES TO BECOME MISALIGNED.  THE AFFECTED VEHICLES ARE 1999 - 2003 CLASS A MOTOR HOMES MANUFACTURED ON F53 20,500 POUND GROSS VEHICLE WEIGHT RATING (GVWR), FORD CHASSIS, AND 2000-2003 CLASS A MOTOR HOMES MANUFACTURED ON W-22 22,000 POUND GVWR, WORKHORSE CHASSIS.        CONDITIONS CAN RESULT IN THE BOTTOMING OUT THE SUSPENSION AND AMPLIFICATION OF THE STRESS PLACED ON THE FLOOR TRUSS NETWORK.  THE ADDITIONAL STRESS CAN RESULT IN THE FRACTURE OF WELDS SECURING THE FLOOR TRUSS NETWORK SYSTEM TO THE CHASSIS FRAME RAIL AND/OR FRACTURE OF THE FLOOR TRUSS NETWORK SUPPORT SYSTEM.  THE POSSIBILITY EXISTS THAT THERE COULD BE DAMAGE TO ELECTRICAL WIRING AND/OR FUEL LINES WHICH COULD POTENTIALLY LEAD TO A FIRE.        DEALERS WILL INSPECT THE FLOOR TRUSS NETWORK SUPPORT SYSTEM, REINFORCE THE EXISTING STRUCTURE, AND REPAIR, AS NEEDED, THE FLOOR TRUSS NETWORK SUPPORT.   OWNER NOTIFICATION BEGAN NOVEMBER 5, 2002.  OWNERS SHOULD CONTACT MONACO AT 1-800-685-6545.CUSTOMERS CAN ALSO CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT (1-888-327-4236).\r",
+            {
+                "entities": [
+                    [
+                        7,
+                        27,
+                        "COMPONENT"
+                    ],
+                    [
+                        28,
+                        46,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        65,
+                        89,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        108,
+                        127,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        133,
+                        167,
+                        "COMPONENT"
+                    ],
+                    [
+                        187,
+                        193,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        243,
+                        254,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        294,
+                        313,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        330,
+                        374,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        383,
+                        395,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        411,
+                        430,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        447,
+                        469,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        471,
+                        489,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        526,
+                        554,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        559,
+                        586,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        601,
+                        621,
+                        "COMPONENT"
+                    ],
+                    [
+                        627,
+                        644,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        663,
+                        680,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        694,
+                        720,
+                        "COMPONENT"
+                    ],
+                    [
+                        728,
+                        746,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        754,
+                        762,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        770,
+                        805,
+                        "COMPONENT"
+                    ],
+                    [
+                        850,
+                        877,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        930,
+                        935,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        956,
+                        963,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        968,
+                        1002,
+                        "COMPONENT"
+                    ],
+                    [
+                        1004,
+                        1013,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1042,
+                        1048,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1065,
+                        1093,
+                        "COMPONENT"
+                    ],
+                    [
+                        1154,
+                        1168,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1218,
+                        1266,
+                        "CORRECTIVE ACTION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "HOLIDAY RAMBLER        ADMIRAL STRUCTURE MONACO COACH CORP.MFR        MONACO COACH CORPORATION        ON CERTAIN CLASS A MOTOR HOMES, THE FLOOR TRUSS NETWORK SUPPORT SYSTEM HAS A POTENTIAL TO WEAKEN CAUSING INTERNAL AND EXTERNAL FEATURES TO BECOME MISALIGNED.  THE AFFECTED VEHICLES ARE 1999 - 2003 CLASS A MOTOR HOMES MANUFACTURED ON F53 20,500 POUND GROSS VEHICLE WEIGHT RATING (GVWR), FORD CHASSIS, AND 2000-2003 CLASS A MOTOR HOMES MANUFACTURED ON W-22 22,000 POUND GVWR, WORKHORSE CHASSIS.        CONDITIONS CAN RESULT IN THE BOTTOMING OUT THE SUSPENSION AND AMPLIFICATION OF THE STRESS PLACED ON THE FLOOR TRUSS NETWORK.  THE ADDITIONAL STRESS CAN RESULT IN THE FRACTURE OF WELDS SECURING THE FLOOR TRUSS NETWORK SYSTEM TO THE CHASSIS FRAME RAIL AND/OR FRACTURE OF THE FLOOR TRUSS NETWORK SUPPORT SYSTEM.  THE POSSIBILITY EXISTS THAT THERE COULD BE DAMAGE TO ELECTRICAL WIRING AND/OR FUEL LINES WHICH COULD POTENTIALLY LEAD TO A FIRE.        DEALERS WILL INSPECT THE FLOOR TRUSS NETWORK SUPPORT SYSTEM, REINFORCE THE EXISTING STRUCTURE, AND REPAIR, AS NEEDED, THE FLOOR TRUSS NETWORK SUPPORT.   OWNER NOTIFICATION BEGAN NOVEMBER 5, 2002.  OWNERS SHOULD CONTACT MONACO AT 1-800-685-6545.        CUSTOMERS CAN ALSO CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2.\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        30,
+                        "COMPONENT"
+                    ],
+                    [
+                        41,
+                        62,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        70,
+                        94,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        113,
+                        132,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        138,
+                        172,
+                        "COMPONENT"
+                    ],
+                    [
+                        192,
+                        198,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        299,
+                        318,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        335,
+                        379,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        388,
+                        400,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        416,
+                        435,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        452,
+                        474,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        476,
+                        494,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        531,
+                        559,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        564,
+                        591,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        606,
+                        626,
+                        "COMPONENT"
+                    ],
+                    [
+                        632,
+                        649,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        668,
+                        685,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        699,
+                        725,
+                        "COMPONENT"
+                    ],
+                    [
+                        733,
+                        751,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        759,
+                        767,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        771,
+                        810,
+                        "COMPONENT"
+                    ],
+                    [
+                        855,
+                        882,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        935,
+                        940,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        961,
+                        968,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        969,
+                        1007,
+                        "COMPONENT"
+                    ],
+                    [
+                        1009,
+                        1018,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1047,
+                        1053,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1066,
+                        1098,
+                        "COMPONENT"
+                    ],
+                    [
+                        1159,
+                        1173,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1219,
+                        1279,
+                        "CORRECTIVE ACTION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "MONACO COACH STRUCTURE MONACO COACH CORP. MFR        MONACO COACH CORPORATION ON CERTAIN CLASS A MOTOR HOMES, THE FLOOR TRUSS NETWORK SUPPORT SYSTEM HAS A POTENTIAL TO WEAKEN CAUSING INTERNAL AND EXTERNAL FEATURES TO BECOME MISALIGNED.  THE AFFECTED VEHICLES ARE 1999 - 2003 CLASS A MOTOR HOMES MANUFACTURED ON F53 20,500 POUND GROSS VEHICLE WEIGHT RATING (GVWR), FORD CHASSIS, AND 2000-2003 CLASS A MOTOR HOMES MANUFACTURED ON W-22 22,000 POUND GVWR, WORKHORSE CHASSIS.CONDITIONS CAN RESULT IN THE BOTTOMING OUT THE SUSPENSION AND AMPLIFICATION OF THE STRESS PLACED ON THE FLOOR TRUSS NETWORK.  THE ADDITIONAL STRESS CAN RESULT IN THE FRACTURE OF WELDS SECURING THE FLOOR TRUSS NETWORK SYSTEM TO THE CHASSIS FRAME RAIL AND/OR FRACTURE OF THE FLOOR TRUSS NETWORK SUPPORT SYSTEM.  THE POSSIBILITY EXISTS THAT THERE COULD BE DAMAGE TO ELECTRICAL WIRING AND/OR FUEL LINES WHICH COULD POTENTIALLY LEAD TO A FIRE.        DEALERS WILL INSPECT THE FLOOR TRUSS NETWORK SUPPORT SYSTEM, REINFORCE THE EXISTING STRUCTURE, AND REPAIR, AS NEEDED, THE FLOOR TRUSS NETWORK SUPPORT.   OWNER NOTIFICATION BEGAN NOVEMBER 5, 2002.  OWNERS SHOULD CONTACT MONACO AT 1-800-685-6545.        CUSTOMERS CAN ALSO CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2.\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        22,
+                        "COMPONENT"
+                    ],
+                    [
+                        23,
+                        41,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        53,
+                        77,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        89,
+                        108,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        110,
+                        148,
+                        "COMPONENT"
+                    ],
+                    [
+                        168,
+                        174,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        224,
+                        235,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        275,
+                        294,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        315,
+                        341,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        364,
+                        376,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        392,
+                        411,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        428,
+                        450,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        452,
+                        480,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        499,
+                        527,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        532,
+                        545,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        574,
+                        594,
+                        "COMPONENT"
+                    ],
+                    [
+                        600,
+                        617,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        636,
+                        653,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        667,
+                        693,
+                        "COMPONENT"
+                    ],
+                    [
+                        701,
+                        719,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        727,
+                        735,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        743,
+                        778,
+                        "COMPONENT"
+                    ],
+                    [
+                        823,
+                        850,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        903,
+                        908,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        929,
+                        936,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        941,
+                        975,
+                        "COMPONENT"
+                    ],
+                    [
+                        977,
+                        986,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1015,
+                        1021,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1038,
+                        1066,
+                        "COMPONENT"
+                    ],
+                    [
+                        1127,
+                        1141,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1199,
+                        1247,
+                        "CORRECTIVE ACTION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "SERVICE BRAKES, AIR:CONTROLS:HAND CONTROL/VALVE PACCAR,INCORPORATED ON CERTAIN VEHICLES EQUIPPED WITH BENDIX TC-7 TRAILER CONTROL HAND-OPERATED VALVE WITH PUSH-TO-CONNECT FITTINGS.  THE DELIVERY PORT IN THE VALVE BODY MAY BE PARTIALLY BLOCKED DUE TO A PROBLEM DURING THE MOLDING PROCESS.SUCH BLOCKAGE MAY SLOW THE DELIVERY AND EXHAUST OF AIR TO AND FROM THE TRAILER BRAKES WHEN THEY ARE OPERATED BY THIS HAND-OPERATED TRAILER CONTROL VALVE.        PACCAR WILL NOTIFY ITS CUSTOMERS AND INSPECT AND REPLACE, IF NECESSARY, THE HAND VALVE FREE OF CHARGE.   OWNER NOTIFICATION BEGAN OCTOBER 18,  2002.  OWNERS WHO TAKE THEIR VEHICLES TO AN AUTHORIZED DEALER ON AN AGREED UPON SERVICE DATE AND DO NOT RECEIVE THE FREE REMEDY WITHIN A REASONABLE TIME SHOULD CONTACT PETERBILT AT 940-591-4201.        ALSO, CUSTOMERS CAN CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT \r",
+            {
+                "entities": [
+                    [
+                        0,
+                        14,
+                        "COMPONENT"
+                    ],
+                    [
+                        16,
+                        28,
+                        "COMPONENT"
+                    ],
+                    [
+                        29,
+                        54,
+                        "COMPONENT"
+                    ],
+                    [
+                        102,
+                        129,
+                        "COMPONENT"
+                    ],
+                    [
+                        130,
+                        149,
+                        "COMPONENT"
+                    ],
+                    [
+                        155,
+                        180,
+                        "COMPONENT"
+                    ],
+                    [
+                        207,
+                        217,
+                        "COMPONENT"
+                    ],
+                    [
+                        271,
+                        291,
+                        "PROCESS"
+                    ],
+                    [
+                        327,
+                        341,
+                        "PROCESS"
+                    ],
+                    [
+                        358,
+                        372,
+                        "COMPONENT"
+                    ],
+                    [
+                        404,
+                        440,
+                        "COMPONENT"
+                    ],
+                    [
+                        460,
+                        480,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        485,
+                        504,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        520,
+                        534,
+                        "COMPONENT"
+                    ],
+                    [
+                        707,
+                        743,
+                        "COMPONENT"
+                    ],
+                    [
+                        821,
+                        873,
+                        "COMPONENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "SERVICE BRAKES, AIR:CONTROLS:HAND CONTROL/VALVE PACCAR,INCORPORATED MFR PACCAR Incorporated ON CERTAIN VEHICLES EQUIPPED WITH BENDIX TC-7 TRAILER CONTROL HAND-OPERATED VALVE WITH PUSH-TO-CONNECT FITTINGS.  THE DELIVERY PORT IN THE VALVE BODY MAY BE PARTIALLY BLOCKED DUE TO A PROBLEM DURING THE MOLDING PROCESS.SUCH BLOCKAGE MAY SLOW THE DELIVERY AND EXHAUST OF AIR TO AND FROM THE TRAILER BRAKES WHEN THEY ARE OPERATED BY THIS HAND-OPERATED TRAILER CONTROL VALVE.        PACCAR WILL NOTIFY ITS CUSTOMERS AND INSPECT AND REPLACE, IF NECESSARY, THE HAND VALVE FREE OF CHARGE.   OWNER NOTIFICATION BEGAN OCTOBER 18,  2002.  OWNERS WHO TAKE THEIR VEHICLES TO AN AUTHORIZED DEALER ON AN AGREED UPON SERVICE DATE AND DO NOT RECEIVE THE FREE REMEDY WITHIN A REASONABLE TIME SHOULD CONTACT PETERBILT AT 940-591-4201.ALSO, CUSTOMERS CAN CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        14,
+                        "COMPONENT"
+                    ],
+                    [
+                        16,
+                        28,
+                        "COMPONENT"
+                    ],
+                    [
+                        29,
+                        54,
+                        "COMPONENT"
+                    ],
+                    [
+                        68,
+                        78,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        126,
+                        153,
+                        "COMPONENT"
+                    ],
+                    [
+                        154,
+                        173,
+                        "COMPONENT"
+                    ],
+                    [
+                        179,
+                        204,
+                        "COMPONENT"
+                    ],
+                    [
+                        249,
+                        266,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        295,
+                        315,
+                        "PROCESS"
+                    ],
+                    [
+                        329,
+                        346,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        351,
+                        365,
+                        "PROCESS"
+                    ],
+                    [
+                        382,
+                        396,
+                        "COMPONENT"
+                    ],
+                    [
+                        428,
+                        464,
+                        "COMPONENT"
+                    ],
+                    [
+                        484,
+                        504,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        509,
+                        516,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        521,
+                        528,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        548,
+                        558,
+                        "COMPONENT"
+                    ],
+                    [
+                        731,
+                        742,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        841,
+                        889,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        890,
+                        909,
+                        "CORRECTIVE ACTION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "SERVICE BRAKES, AIR:CONTROLS:HAND CONTROL/VALVE.PACCAR,INCORPORATED MFR PACCAR Incorporated ON CERTAIN VEHICLES EQUIPPED WITH BENDIX TC-7 TRAILER CONTROL HAND-OPERATED VALVE WITH PUSH-TO-CONNECT FITTINGS.  THE DELIVERY PORT IN THE VALVE BODY MAY BE PARTIALLY BLOCKED DUE TO A PROBLEM DURING THE MOLDING PROCESS.        SUCH BLOCKAGE MAY SLOW THE DELIVERY AND EXHAUST OF AIR TO AND FROM THE TRAILER BRAKES WHEN THEY ARE OPERATED BY THIS HAND-OPERATED TRAILER CONTROL VALVE.        PACCAR WILL NOTIFY ITS CUSTOMERS AND INSPECT AND REPLACE, IF NECESSARY, THE HAND VALVE FREE OF CHARGE.   OWNER NOTIFICATION BEGAN OCTOBER 18,  2002.  OWNERS WHO TAKE THEIR VEHICLES TO AN AUTHORIZED DEALER ON AN AGREED UPON SERVICE DATE AND DO NOT RECEIVE THE FREE REMEDY WITHIN A REASONABLE TIME SHOULD CONTACT PETERBILT AT 940-591-4201.ALSO, CUSTOMERS CAN CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT (1-888-327-4236).\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        14,
+                        "COMPONENT"
+                    ],
+                    [
+                        16,
+                        28,
+                        "COMPONENT"
+                    ],
+                    [
+                        29,
+                        54,
+                        "COMPONENT"
+                    ],
+                    [
+                        68,
+                        78,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        126,
+                        173,
+                        "COMPONENT"
+                    ],
+                    [
+                        179,
+                        204,
+                        "COMPONENT"
+                    ],
+                    [
+                        210,
+                        223,
+                        "COMPONENT"
+                    ],
+                    [
+                        231,
+                        241,
+                        "COMPONENT"
+                    ],
+                    [
+                        249,
+                        266,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        295,
+                        311,
+                        "PROCESS"
+                    ],
+                    [
+                        337,
+                        373,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        436,
+                        472,
+                        "COMPONENT"
+                    ],
+                    [
+                        480,
+                        486,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        492,
+                        512,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        517,
+                        524,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        529,
+                        536,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        556,
+                        566,
+                        "COMPONENT"
+                    ],
+                    [
+                        567,
+                        582,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        739,
+                        750,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        783,
+                        800,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        837,
+                        897,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        898,
+                        917,
+                        "CORRECTIVE ACTION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "VEHICLE SPEED CONTROL:LINKAGES ELECTRONIC MOBILITY CONTROLS MFR ELECTRONIC MOBILITY CONTROLS ELECTRONIC GAS AND BRAKE SYSTEM, MODELS EGB-IIF AND EGB-SS AND MANUFACTURED BETWEEN OCTOBER 28, 1994, AND DECEMBER 21, 2001.  THE POTENTIOMETER SHAFT IS NOT SUFFICIENT TO WITHSTAND REPEATED EXCESSIVE LOADING AND CAN BREAK.        IF THE POTENTIOMETER SHAFT IS BROKEN, THE DRIVER COULD LOSE CONTROL OF THE PRIMARY GAS AND BRAKE WHICH COULD RESULT IN A VEHICLE CRASH.        EMC WILL NOTIFY ITS CUSTOMERS AND REPAIR THE ELECTRONIC GAS AND BRAKE CONTROL SYSTEM WITH A LARGER POTENTIOMETER SHAFT AND ADD AN ADDITIONAL BEARING FREE OF CHARGE.  OWNER NOTIFICATION BEGAN SEPTEMBER 5, 2002.  OWNERS WHO TAKE THEIR VEHICLES TO AN AUTHORIZED DEALER ON AN AGREED UPON SERVICE DATE AND DO NOT RECEIVE THE FREE REMEDY WITHIN A REASONABLE TIME SHOULD CONTACT EMC AT 225-927-5558.        EMC'S RECALL NUMBER IS SAD: 02-0001.ALSO, CUSTOMERS CAN CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT (1-888-327-4236)\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        21,
+                        "PROCESS"
+                    ],
+                    [
+                        22,
+                        59,
+                        "COMPONENT"
+                    ],
+                    [
+                        64,
+                        92,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        93,
+                        124,
+                        "COMPONENT"
+                    ],
+                    [
+                        223,
+                        242,
+                        "COMPONENT"
+                    ],
+                    [
+                        283,
+                        300,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        309,
+                        315,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        330,
+                        359,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        378,
+                        390,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        398,
+                        409,
+                        "COMPONENT"
+                    ],
+                    [
+                        414,
+                        419,
+                        "COMPONENT"
+                    ],
+                    [
+                        444,
+                        458,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        475,
+                        495,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        500,
+                        525,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        530,
+                        550,
+                        "COMPONENT"
+                    ],
+                    [
+                        565,
+                        584,
+                        "COMPONENT"
+                    ],
+                    [
+                        596,
+                        630,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        786,
+                        797,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        930,
+                        982,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        983,
+                        1002,
+                        "CORRECTIVE ACTION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\r",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "BLUE BIRD SWORD ENGINE AND ENGINE COOLING:ENGINE:GASOLINE BLUE BIRD BODY COMPANY MFR        Blue Bird Body Company ON CERTAIN LOW FLOOR BUSES EQUIPPED WITH BENDIX PURAGUARD DL DISCHARGE LINE OIL COALESCING AIR FILTER, THE OIL COLLECTED IN THE FILTER CAN BE EXPOSED TO TEMPERATURES IN THE DISCHARGE LINE OF THE AIR COMPRESSOR THAT EXCEED THE IGNITION POINT OF THE OIL.          THESE CONDITIONS CAN PROMOTE THE RISK OF A FIRE IN THE FILTER, POSSIBLY RESULTING IN SERIOUS INJURY.  DEALERS WILL REMOVE AND REPLACE THE PURAGUARD DL UNIT WITH A NEW AIR COMPRESSOR DISCHARGE LINE.   OWNERS WHO TAKE THEIR VEHICLES TO AN AUTHORISED DEALER ON AN AGREED UPON SERVICE DATE AND DO NOT RECEIVE THE FREE REMEDY WITHIN A REASONABLE TIME SHOULD CONTACT BLUE BIRD AT 478-822-2242.        ALSO, CUSTOMERS CAN CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        10,
+                        22,
+                        "COMPONENT"
+                    ],
+                    [
+                        92,
+                        114,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        126,
+                        141,
+                        "COMPONENT"
+                    ],
+                    [
+                        156,
+                        175,
+                        "PROCESS"
+                    ],
+                    [
+                        206,
+                        216,
+                        "PARTS"
+                    ],
+                    [
+                        243,
+                        249,
+                        "PARTS"
+                    ],
+                    [
+                        257,
+                        280,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        310,
+                        324,
+                        "PARTS"
+                    ],
+                    [
+                        410,
+                        424,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        432,
+                        438,
+                        "PARTS"
+                    ],
+                    [
+                        462,
+                        477,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        544,
+                        558,
+                        "PARTS"
+                    ],
+                    [
+                        614,
+                        631,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        686,
+                        722,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        804,
+                        872,
+                        "CORRECTIVE ACTION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "VEHICLE SPEED CONTROL CHANCE COACH, INC. CHANCE COACH, INC. ON CERTAIN BUSES EQUIPPED WITH ELECTRONIC THROTTLE CONTROL/ACCELERATOR PEDALS SUPPLIED BY WILLIAMS CONTROLS INDUSTRIES, THE WELD ATTACHING THE CLEVIS TO THE PLATE HAS INSUFFICIENT PENETRATION AND COULD ALLOW THE CLEVIS TO SEPARATE FROM THE PLATE.IF THE CLEVIS SEPARATED FROM THE PLATE WHILE THE VEHICLE WAS IN USE, THE VEHICLE WOULD RETURN TO IDLE, INCREASING THE RISK OF A CRASH.        CHANCE COACH RECOMMENDS THAT OWNERS INSPECT THEIR VEHICLES AND INSTALL THE PART KIT PROVIDED BY CHANCE COACH.   OWNERS WHO DO NOT RECEIVE THE FREE PARTS AND INSTRUCTIONS WITHIN A REASONABLE TIME SHOULD CONTACT CHANCE COACH AT 1-888-391-1777. ALSO CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT (1-888-327-4236).\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        34,
+                        "COMPONENT"
+                    ],
+                    [
+                        36,
+                        53,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        71,
+                        76,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        91,
+                        137,
+                        "PARTS"
+                    ],
+                    [
+                        150,
+                        178,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        184,
+                        188,
+                        "COMPONENT"
+                    ],
+                    [
+                        203,
+                        209,
+                        "PARTS"
+                    ],
+                    [
+                        227,
+                        251,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        313,
+                        319,
+                        "PARTS"
+                    ],
+                    [
+                        339,
+                        344,
+                        "PARTS"
+                    ],
+                    [
+                        379,
+                        407,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        424,
+                        440,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        484,
+                        506,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        511,
+                        531,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        650,
+                        670,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        707,
+                        755,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        756,
+                        775,
+                        "CORRECTIVE ACTION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "VEHICLE SPEED CONTROL CHANCE COACH, INC MFR CHANCE COACH, INC. ONCERTAIN BUSES EQUIPPED WITH ELECTRONIC THROTTLECONTROL/ACCELERATOR PEDALS SUPPLIED BY WILLIAMS CONTROLS INDUSTRIES, THE WELD ATTACHING THE CLEVIS TO THE PLATE HAS INSUFFICIENT PENETRATION AND COULD ALLOW THE CLEVIS TO SEPARATE FROM THE PLATE.IF THE CLEVIS SEPARATED FROM THE PLATE WHILE THE VEHICLE WAS IN USE, THE VEHICLE WOULD RETURN TO IDLE, INCREASING THE RISK OF A CRASH.        CHANCE COACH RECOMMENDS THAT OWNERS INSPECT THEIR VEHICLES AND INSTALL THE PART KIT PROVIDED BY CHANCE COACH.   OWNERS WHO DO NOT RECEIVE THE FREE PARTS AND INSTRUCTIONS WITHIN A REASONABLE TIME SHOULD CONTACT CHANCE COACH AT 1-888-391-1777.ALSO CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT (1-888-327-4236)\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        34,
+                        "COMPONENT"
+                    ],
+                    [
+                        40,
+                        56,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        104,
+                        138,
+                        "PARTS"
+                    ],
+                    [
+                        151,
+                        179,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        185,
+                        189,
+                        "PARTS"
+                    ],
+                    [
+                        204,
+                        210,
+                        "PARTS"
+                    ],
+                    [
+                        228,
+                        252,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        273,
+                        279,
+                        "PARTS"
+                    ],
+                    [
+                        376,
+                        408,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        425,
+                        441,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        478,
+                        507,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        512,
+                        532,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        651,
+                        671,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        703,
+                        755,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        756,
+                        775,
+                        "CORRECTIVE ACTION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "VEHICLE SPEED CONTROL MFR CHANCE COACH, INC. ON CERTAIN BUSES EQUIPPED WITH ELECTRONIC THROTTLE CONTROL/ACCELERATOR PEDALS SUPPLIED BY WILLIAMS CONTROLS INDUSTRIES, THE WELD ATTACHING THE CLEVIS TO THE PLATE HAS INSUFFICIENT PENETRATION AND COULD ALLOW THE CLEVIS TO SEPARATE FROM THE PLATE.IF THE CLEVIS SEPARATED FROM THE PLATE WHILE THE VEHICLE WAS IN USE, THE VEHICLE WOULD RETURN TO IDLE, INCREASING THE RISK OF A CRASH. CHANCE COACH RECOMMENDS THAT OWNERS INSPECT THEIR VEHICLES AND INSTALL THE PART KIT PROVIDED BY CHANCE COACH.   OWNERS WHO DO NOT RECEIVE THE FREE PARTS AND INSTRUCTIONS WITHIN A REASONABLE TIME SHOULD CONTACT CHANCE COACH AT 1-888-391-1777.ALSO CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        21,
+                        "COMPONENT"
+                    ],
+                    [
+                        26,
+                        38,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        56,
+                        61,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        76,
+                        122,
+                        "PARTS"
+                    ],
+                    [
+                        135,
+                        163,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        169,
+                        173,
+                        "PARTS"
+                    ],
+                    [
+                        188,
+                        194,
+                        "PARTS"
+                    ],
+                    [
+                        212,
+                        236,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        257,
+                        263,
+                        "PARTS"
+                    ],
+                    [
+                        285,
+                        293,
+                        "PARTS"
+                    ],
+                    [
+                        298,
+                        304,
+                        "PARTS"
+                    ],
+                    [
+                        324,
+                        329,
+                        "PARTS"
+                    ],
+                    [
+                        340,
+                        347,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        364,
+                        392,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        405,
+                        425,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        426,
+                        438,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        455,
+                        484,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        489,
+                        509,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        522,
+                        535,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        568,
+                        578,
+                        "PARTS"
+                    ],
+                    [
+                        583,
+                        620,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        628,
+                        648,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        684,
+                        732,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        733,
+                        752,
+                        "CORRECTIVE ACTION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "FREIGHTLINER VEHICLE SPEED CONTROL FREIGHTLINER CORPORATION         ODI        FREIGHTLINER LLC        ON CERTAIN SCHOOL BUS CHASSIS WITH CUMMINS ISB ENGINES WITH MECHANICAL THROTTLE, THE THROTTLE CABLE CAN VIBRATE EXCESSIVELY AND BREAK NEAR THE END FITTING THAT ATTACHES TO THE ENGINE LINKAGE.        THIS CAN RESULT IN A LOSS OF THROTTLE CONTROL, INCREASING THE RISK OF A CRASH.        DEALERS WILL REMOVE AND REPLACE THE THROTTLE CABLE WITH A NEW DESIGN.  OWNER NOTIFICATION BEGAN ON FEBRUARY 17, 2003.  OWNERS WHO TAKE THEIR VEHICLES TO AN AUTHORISED DEALER ON AN AGREED UPON SERVICE DATE AND DO NOT RECEIVE THE FREE REMEDY WITHIN A REASONABLE TIME SHOULD CONTACT FREIGHTLINER AT 1-800-547-0712.        FREIGHTLINER RECALL NO. FL-398. ALSO CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT (1-888-327-4236).\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        34,
+                        "COMPONENT"
+                    ],
+                    [
+                        35,
+                        59,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        114,
+                        124,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        138,
+                        157,
+                        "COMPONENT"
+                    ],
+                    [
+                        163,
+                        182,
+                        "PARTS"
+                    ],
+                    [
+                        188,
+                        226,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        231,
+                        257,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        311,
+                        347,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        364,
+                        380,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        401,
+                        457,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        668,
+                        680,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        756,
+                        804,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        805,
+                        824,
+                        "CORRECTIVE ACTION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "FREIGHTLINER VEHICLE SPEED CONTROLFREIGHTLINER CORPORATION ODI        FREIGHTLINER LLC        ON CERTAIN SCHOOL BUS CHASSIS WITH CUMMINS ISB ENGINES WITH MECHANICAL THROTTLE, THE THROTTLE CABLE CAN VIBRATE EXCESSIVELY AND BREAK NEAR THE END FITTING THAT ATTACHES TO THE ENGINE LINKAGE.        THIS CAN RESULT IN A LOSS OF THROTTLE CONTROL, INCREASING THE RISK OF A CRASH.DEALERS WILL REMOVE AND REPLACE THE THROTTLE CABLE WITH A NEW DESIGN.  OWNER NOTIFICATION BEGAN ON FEBRUARY 17, 2003.  OWNERS WHO TAKE THEIR VEHICLES TO AN AUTHORIZED DEALER ON AN AGREED UPON SERVICE DATE AND DO NOT RECEIVE THE FREE REMEDY WITHIN A REASONABLE TIME SHOULD CONTACT FREIGHTLINER AT 1-800-547-0712.FREIGHTLINER RECALL ALSO CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        46,
+                        "COMPONENT"
+                    ],
+                    [
+                        70,
+                        86,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        105,
+                        115,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        116,
+                        123,
+                        "CHASSIS TYPE"
+                    ],
+                    [
+                        129,
+                        148,
+                        "COMPONENT"
+                    ],
+                    [
+                        154,
+                        173,
+                        "PARTS"
+                    ],
+                    [
+                        179,
+                        193,
+                        "PARTS"
+                    ],
+                    [
+                        222,
+                        248,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        270,
+                        285,
+                        "PARTS"
+                    ],
+                    [
+                        314,
+                        338,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        340,
+                        378,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        384,
+                        421,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        501,
+                        544,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        643,
+                        663,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        715,
+                        767,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        768,
+                        787,
+                        "CORRECTIVE ACTION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "EMERGENCY ONE FIRE TRUCK SERVICE BRAKES, AIR:CONTROLS        E-ONE, INC. E-One Incorporated ON CERTAIN FIRE TRUCKS BUILT WITH A STEERABLE AUXILIARY AXLE AND EQUIPPED WITH CERTAIN MERITOR-WABCO BRAKE SYSTEM TWO AND FOUR PORT RELAY VALVES, THE VALVE MAY STICK OPEN WHEN A HIGH-PRESSURE APPLICATION IS RELEASED.WHEN THE VALVE STICKS OPEN, IT CAN RESULT IN A TOTAL LOSS OF AIR FROM EITHER THE SERVICE OR THE PARK BRAKE SYSTEM.  THE DRIVER MAY LOSE BRAKING ABILITY UNDER A SERVICE APPLICATION, POSSIBLY RESULTING IN A VEHICLE CRASH.        DEALERS WILL REPLACE THESE VALVES.   OWNER NOTIFICATION BEGAN JANUARY 1, 2003.  OWNERS WHO TAKE THEIR VEHICLES TO AN AUTHORIZED DEALER ON AN AGREED UPON SERVICE DATE AND DO NOT RECEIVE THE FREE REMEDY WITHIN A REASONABLE TIME SHOULD CONTACT EMERGENCY ONE AT 352-861-3795.        ALSO CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT (1-888-327-4236).\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        39,
+                        "COMPONENT"
+                    ],
+                    [
+                        45,
+                        66,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        103,
+                        114,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        128,
+                        152,
+                        "COMPONENT"
+                    ],
+                    [
+                        179,
+                        205,
+                        "COMPONENT"
+                    ],
+                    [
+                        206,
+                        236,
+                        "COMPONENT"
+                    ],
+                    [
+                        242,
+                        247,
+                        "PARTS"
+                    ],
+                    [
+                        270,
+                        312,
+                        "PROCESS"
+                    ],
+                    [
+                        339,
+                        372,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        404,
+                        422,
+                        "COMPONENT"
+                    ],
+                    [
+                        428,
+                        459,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        489,
+                        527,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        548,
+                        569,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        768,
+                        785,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        819,
+                        877,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        880,
+                        899,
+                        "CORRECTIVE ACTION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "EMERGENCY ONE        FIRE TRUCK        SERVICE BRAKES, AIR:CONTROLS E-ONE, INC.MFR E-One Incorporated ON CERTAIN FIRE TRUCKS BUILT WITH A STEERABLE AUXILIARY AXLE AND EQUIPPED WITH CERTAIN MERITOR-WABCO BRAKE SYSTEM TWO AND FOUR PORT RELAY VALVES, THE VALVE MAY STICK OPEN WHEN A HIGH-PRESSURE APPLICATION IS RELEASED.        WHEN THE VALVE STICKS OPEN, IT CAN RESULT IN A TOTAL LOSS OF AIR FROM EITHER THE SERVICE OR THE PARK BRAKE SYSTEM.  THE DRIVER MAY LOSE BRAKING ABILITY UNDER A SERVICE APPLICATION, POSSIBLY RESULTING IN A VEHICLE CRASH.        DEALERS WILL REPLACE THESE VALVES.   OWNER NOTIFICATION BEGAN JANUARY 1, 2003.  OWNERS WHO TAKE THEIR VEHICLES TO AN AUTHORISED DEALER ON AN AGREED UPON SERVICE DATE AND DO NOT RECEIVE THE FREE REMEDY WITHIN A REASONABLE TIME SHOULD CONTACT EMERGENCY ONE AT 352-861-3795.        ALSO CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT (1-888-327-4236).\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        53,
+                        "COMPONENT"
+                    ],
+                    [
+                        59,
+                        73,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        113,
+                        124,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        138,
+                        162,
+                        "COMPONENT"
+                    ],
+                    [
+                        189,
+                        215,
+                        "COMPONENT"
+                    ],
+                    [
+                        216,
+                        246,
+                        "COMPONENT"
+                    ],
+                    [
+                        252,
+                        257,
+                        "PARTS"
+                    ],
+                    [
+                        280,
+                        305,
+                        "PROCESS"
+                    ],
+                    [
+                        335,
+                        340,
+                        "PARTS"
+                    ],
+                    [
+                        361,
+                        390,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        422,
+                        440,
+                        "PARTS"
+                    ],
+                    [
+                        453,
+                        505,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        516,
+                        545,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        566,
+                        587,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        655,
+                        687,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        786,
+                        807,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        837,
+                        897,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        898,
+                        917,
+                        "CORRECTIVE ACTION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "HONDA SILVER WING WHEELS AMERICAN HONDA MOTOR CO.  MFR Honda (American Honda Motor Co.)        ON CERTAIN MOTORCYCLES, UNDER CERTAIN RIDING CONDITIONS, SUCH AS CONTINUOUSLY BUMPY ROADS, THE REAR WHEEL COULD DEVELOP STRESS CRACKS WHERE THE WHEEL SPOKES ATTACH TO THE HUB. THE SPOKES WILL EVENTUALLY FAIL, CAUSING THE WHEEL TO COLLAPSE WITHOUT WARNING.DEALERS WILL REPLACE THE REAR WHEEL, INCLUDING A NEW TIRE.   OWNER NOTIFICATION IS EXPECTED TO BEGIN DURING SEPTEMBER 2002.  OWNERS WHO TAKE THEIR VEHICLES TO AN AUTHORISED DEALER ON AN AGREED UPON SERVICE DATE AND DO NOT RECEIVE THE FREE REMEDY WITHIN A\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        24,
+                        "COMPONENT"
+                    ],
+                    [
+                        25,
+                        49,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        55,
+                        87,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        106,
+                        117,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        160,
+                        184,
+                        "PROCESS"
+                    ],
+                    [
+                        190,
+                        228,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        239,
+                        251,
+                        "PARTS"
+                    ],
+                    [
+                        275,
+                        302,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        304,
+                        357,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        363,
+                        385,
+                        "CORRECTIVE ACTION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "REASONABLE TIME SHOULD CONTACT HONDA MOTORCYCLE AT 1-800-289-8226.        ALSO, CUSTOMERS CAN CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT (1-888-327-4236).\r",
+            {
+                "entities": [
+                    [
+                        23,
+                        47,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        94,
+                        154,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        155,
+                        174,
+                        "CORRECTIVE ACTION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "POWER TRAIN:MANUAL TRANSMISSION        CHANCE COACH, INC. CHANCE COACH, INC. ON CERTAIN STREETCARS (DIESEL AND CNG MODELS) AND RT-52 DIESEL COACHES MANUFACTURED WITH AT-545 AND MT643 TRANSMISSIONS WHICH USE A MANUAL TRANSMISSION CONTROL CABLE.  THE TRANSMISSION CONTROL CABLE MAY RUB AGAINST THE JUNCTION BOX POWER STUD LOCATED ON THE BOTTOM OF THE JUNCTION BOX.        LONG-TERM WEAR CAN ALLOW THE POWER STUD TO SHORT TO GROUND THROUGH THE TRANSMISSION CONTROL CABLE, RESULTING IN ELECTRICAL ARCING AND THE IGNITION OF COMBUSTIBLE MATERIALS IN THE JUNCTION BOX COMPARTMENT.        DEALERS WILL INSPECT THE VEHICLE TO DETERMINE IF EITHER THE POWER STUD INSULATION BOOT AND/OR THE TRANSMISSION SHIFT CABLE CLAMP IS MISSING.  BOTH THE INSULATION BOOT AND THE CLAMP WILL BE INSTALLED IF MISSING.     OWNER NOTIFICATION IS EXPECTED TO BEGIN DURING JULY 2002.    OWNERS WHO TAKE THEIR VEHICLES TO AN AUTHORISED DEALER ON AN AGREED UPON SERVICE DATE AND DO NOT RECEIVE THE FREE REMEDY WITHIN A REASONABLE TIME SHOULD CONTACT CHANCE COACH AT 1-888-391-1777.ALSO, CUSTOMERS CAN CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT (1-888-327-4236).\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        53,
+                        70,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        88,
+                        121,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        127,
+                        147,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        166,
+                        196,
+                        "PARTS"
+                    ],
+                    [
+                        209,
+                        243,
+                        "COMPONENT"
+                    ],
+                    [
+                        249,
+                        275,
+                        "COMPONENT"
+                    ],
+                    [
+                        280,
+                        314,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        370,
+                        418,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        441,
+                        467,
+                        "PARTS"
+                    ],
+                    [
+                        469,
+                        499,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        508,
+                        541,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        549,
+                        574,
+                        "COMPONENT"
+                    ],
+                    [
+                        595,
+                        614,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        642,
+                        668,
+                        "PARTS"
+                    ],
+                    [
+                        680,
+                        710,
+                        "PARTS"
+                    ],
+                    [
+                        955,
+                        1003,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1011,
+                        1031,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1078,
+                        1130,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1131,
+                        1150,
+                        "CORRECTIVE ACTION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "CHANCE POWER TRAIN:MANUAL TRANSMISSION CHANCE COACH, INC. MFR CHANCE COACH, INC. ON CERTAIN STREETCARS (DIESEL AND CNG MODELS) AND RT-52 DIESEL COACHES MANUFACTURED WITH AT-545 AND MT643 TRANSMISSIONS WHICH USE A MANUAL TRANSMISSION CONTROL CABLE.  THE TRANSMISSION CONTROL CABLE MAY RUB AGAINST THE JUNCTION BOX POWER STUD LOCATED ON THE BOTTOM OF THE JUNCTION BOX.LONG-TERM WEAR CAN ALLOW THE POWER STUD TO SHORT TO GROUND THROUGH THE TRANSMISSION CONTROL CABLE, RESULTING IN ELECTRICAL ARCING AND THE IGNITION OF COMBUSTIBLE MATERIALS IN THE JUNCTION BOX COMPARTMENT.        DEALERS WILL INSPECT THE VEHICLE TO DETERMINE IF EITHER THE POWER STUD INSULATION BOOT AND/OR THE TRANSMISSION SHIFT CABLE CLAMP IS MISSING.  BOTH THE INSULATION BOOT AND THE CLAMP WILL BE INSTALLED IF MISSING.     OWNER NOTIFICATION IS EXPECTED TO BEGIN DURING JULY 2002.    OWNERS WHO TAKE THEIR VEHICLES TO AN AUTHORISED DEALER ON AN AGREED UPON SERVICE DATE AND DO NOT RECEIVE THE FREE REMEDY WITHIN A REASONABLE TIME SHOULD CONTACT CHANCE COACH AT 1-888-391-1777.ALSO, CUSTOMERS CAN CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT (1-888-327-4236).\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        18,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        19,
+                        51,
+                        "COMPONENT"
+                    ],
+                    [
+                        62,
+                        74,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        92,
+                        126,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        131,
+                        151,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        170,
+                        200,
+                        "COMPONENT"
+                    ],
+                    [
+                        213,
+                        247,
+                        "PARTS"
+                    ],
+                    [
+                        249,
+                        279,
+                        "PARTS"
+                    ],
+                    [
+                        300,
+                        312,
+                        "PARTS"
+                    ],
+                    [
+                        376,
+                        414,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        478,
+                        537,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        591,
+                        610,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        638,
+                        664,
+                        "PARTS"
+                    ],
+                    [
+                        676,
+                        706,
+                        "PARTS"
+                    ],
+                    [
+                        729,
+                        776,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1007,
+                        1027,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1078,
+                        1124,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1127,
+                        1146,
+                        "CORRECTIVE ACTION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "POWER TRAIN:MANUAL TRANSMISSION        CHANCE COACH, INC.MFR        CHANCE COACH, INC. ON CERTAIN STREETCARS (DIESEL AND CNG MODELS) AND RT-52 DIESEL COACHES MANUFACTURED WITH AT-545 AND MT643 TRANSMISSIONS WHICH USE A MANUAL TRANSMISSION CONTROL CABLE.  THE TRANSMISSION CONTROL CABLE MAY RUB AGAINST THE JUNCTION BOX POWER STUD LOCATED ON THE BOTTOM OF THE JUNCTION BOX.LONG-TERM WEAR CAN ALLOW THE POWER STUD TO SHORT TO GROUND THROUGH THE TRANSMISSION CONTROL CABLE, RESULTING IN ELECTRICAL ARCING AND THE IGNITION OF COMBUSTIBLE MATERIALS IN THE JUNCTION BOX COMPARTMENT.        DEALERS WILL INSPECT THE VEHICLE TO DETERMINE IF EITHER THE POWER STUD INSULATION BOOT AND/OR THE TRANSMISSION SHIFT CABLE CLAMP IS MISSING.  BOTH THE INSULATION BOOT AND THE CLAMP WILL BE INSTALLED IF MISSING.OWNER NOTIFICATION IS EXPECTED TO BEGIN DURING JULY 2002.    OWNERS WHO TAKE THEIR VEHICLES TO AN AUTHORISED DEALER ON AN AGREED UPON SERVICE DATE AND DO NOT RECEIVE THE FREE REMEDY WITHIN A REASONABLE TIME SHOULD CONTACT CHANCE COACH AT 1-888-391-1777.ALSO, CUSTOMERS CAN CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT (1-888-327-4236).\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        12,
+                        51,
+                        "COMPONENT"
+                    ],
+                    [
+                        68,
+                        80,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        90,
+                        132,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        137,
+                        157,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        176,
+                        206,
+                        "COMPONENT"
+                    ],
+                    [
+                        219,
+                        253,
+                        "PARTS"
+                    ],
+                    [
+                        259,
+                        285,
+                        "PARTS"
+                    ],
+                    [
+                        368,
+                        420,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        471,
+                        501,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        510,
+                        563,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        597,
+                        616,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        655,
+                        670,
+                        "PARTS"
+                    ],
+                    [
+                        682,
+                        724,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        759,
+                        799,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1008,
+                        1028,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1067,
+                        1127,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1128,
+                        1150,
+                        "CORRECTIVE ACTION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "POWER TRAIN:MANUAL TRANSMISSION        CHANCE COACH, INC. MFR CHANCE COACH, INC.ON CERTAIN STREETCARS (DIESEL AND CNG MODELS) AND RT-52 DIESEL COACHES MANUFACTURED WITH AT-545 AND MT643 TRANSMISSIONS WHICH USE A MANUAL TRANSMISSION CONTROL CABLE.  THE TRANSMISSION CONTROL CABLE MAY RUB AGAINST THE JUNCTION BOX POWER STUD LOCATED ON THE BOTTOM OF THE JUNCTION BOX.        LONG-TERM WEAR CAN ALLOW THE POWER STUD TO SHORT TO GROUND THROUGH THE TRANSMISSION CONTROL CABLE, RESULTING IN ELECTRICAL ARCING AND THE IGNITION OF COMBUSTIBLE MATERIALS IN THE JUNCTION BOX COMPARTMENT.        DEALERS WILL INSPECT THE VEHICLE TO DETERMINE IF EITHER THE POWER STUD INSULATION BOOT AND/OR THE TRANSMISSION SHIFT CABLE CLAMP IS MISSING.  BOTH THE INSULATION BOOT AND THE CLAMP WILL BE INSTALLED IF MISSING.     OWNER NOTIFICATION IS EXPECTED TO BEGIN DURING JULY 2002.    OWNERS WHO TAKE THEIR VEHICLES TO AN AUTHORIZED DEALER ON AN AGREED UPON SERVICE DATE AND DO NOT RECEIVE THE FREE REMEDY WITHIN A REASONABLE TIME SHOULD CONTACT CHANCE COACH AT 1-888-391-1777.ALSO, CUSTOMERS CAN CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT (1-888-327-4236).\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        12,
+                        51,
+                        "COMPONENT"
+                    ],
+                    [
+                        62,
+                        74,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        91,
+                        101,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        103,
+                        124,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        130,
+                        150,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        169,
+                        199,
+                        "COMPONENT"
+                    ],
+                    [
+                        212,
+                        246,
+                        "PARTS"
+                    ],
+                    [
+                        252,
+                        278,
+                        "PARTS"
+                    ],
+                    [
+                        283,
+                        322,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        373,
+                        421,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        472,
+                        502,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        511,
+                        564,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        598,
+                        617,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        683,
+                        725,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        760,
+                        795,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        951,
+                        981,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        1014,
+                        1034,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1073,
+                        1133,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        1134,
+                        1153,
+                        "CORRECTIVE ACTION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "CALIFORNIA PULL STRUCTURE        HEIL TRAILER INTERNATIONAL HEIL TRAILER INTERNATIONAL ON CERTAIN PULL TRAILERS EQUIPPED WITH AIR RIDE SUSPENSIONS, THE INTEGRITY OF THE WELD SEQUENCING COULD POTENTIALLY RESULT IN CRACKING AT THE REAR OF THE SUSPENSION FRAME.        SUCH A CRACK, IF LEFT UNATTENDED COULD PROGRESS TO AN ABRUPT FAILURE IN THE DOLLY FRAME.  FAILURE TO HAVE THE UNIT UPGRADED COULD RESULT IN A CRASH WITHOUT PRIOR WARNING.        DEALERS WILL UPGRADE THE WELDING WHICH INVOLVES THE ADDITION OF A STEEL BAR TO REINFORCE THE FRAME STRUCTURE.  THE RECALL BEGAN ON FEBRUARY 16, 2006.  OWNERS MAY CONTACT HEIL AT 1-800-400-6913, EXTENSION 353 OR 574.HEIL RECALL NO. EWR282. CUSTOMERS MAY ALSO CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S VEHICLE SAFETY HOTLINE AT 1-888-327-4236 (TTY 1-800-424-9153), OR GO TO HTTP://WWW.SAFERCAR.GOV.\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        25,
+                        "COMPONENT"
+                    ],
+                    [
+                        33,
+                        45,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        60,
+                        86,
+                        "MANUFACTURER"
+                    ],
+                    [
+                        98,
+                        111,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        126,
+                        146,
+                        "PARTS"
+                    ],
+                    [
+                        152,
+                        221,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        229,
+                        258,
+                        "PARTS"
+                    ],
+                    [
+                        273,
+                        278,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        320,
+                        354,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        396,
+                        436,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        457,
+                        519,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        702,
+                        762,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        763,
+                        785,
+                        "CORRECTIVE ACTION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "HEIL        CALIFORNIA PULL  STRUCTURE        HEIL TRAILER INTERNATIONAL ODI        HEIL TRAILER INTERNATIONAL ON CERTAIN PULL TRAILERS EQUIPPED WITH AIR RIDE SUSPENSIONS, THE INTEGRITY OF THE WELD SEQUENCING COULD POTENTIALLY RESULT IN CRACKING AT THE REAR OF THE SUSPENSION FRAME.SUCH A CRACK, IF LEFT UNATTENDED COULD PROGRESS TO AN ABRUPT FAILURE IN THE DOLLY FRAME.  FAILURE TO HAVE THE UNIT UPGRADED COULD RESULT IN A CRASH WITHOUT PRIOR WARNING.DEALERS WILL UPGRADE THE WELDING WHICH INVOLVES THE ADDITION OF A STEEL BAR TO REINFORCE THE FRAME STRUCTURE.  THE RECALL BEGAN ON FEBRUARY 16, 2006.  OWNERS MAY CONTACT HEIL AT 1-800-400-6913, EXTENSION 353 OR 574.HEIL RECALL NO. EWR282. CUSTOMERS MAY ALSO CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S VEHICLE SAFETY HOTLINE AT 1-888-327-4236 (TTY 1-800-424-9153), OR GO TO HTTP://WWW.SAFERCAR.GOV.\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        38,
+                        "COMPONENT"
+                    ],
+                    [
+                        84,
+                        110,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        122,
+                        135,
+                        "VEHICLE MODEL"
+                    ],
+                    [
+                        150,
+                        170,
+                        "PARTS"
+                    ],
+                    [
+                        176,
+                        245,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        299,
+                        350,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        372,
+                        429,
+                        "FAILURE ISSUE"
+                    ],
+                    [
+                        444,
+                        484,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        504,
+                        561,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        614,
+                        626,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        710,
+                        770,
+                        "CORRECTIVE ACTION"
+                    ],
+                    [
+                        771,
+                        793,
+                        "CORRECTIVE ACTION"
+                    ]
+                ]
+            }
+        ]
+    ]
+}
