@@ -19,7 +19,7 @@ Accurate entity recognition is vital for downstream tasks like sentiment analysi
 
 By proficiently identifying and categorising automotive entities, this research aims to enable better data analysis, decision-making, and innovation within the automotive landscape.
 
-COMPARISON:
+**COMPARISON:**
 SPACY model seems to be working much better and providing much better results because of the smaller size of spacy model,better BILOU tagging and Better encoding properties as it is based on BERT(BIDIRECTIONAL ENCODER REPRESENTATIONAL OF TRANSFORMERS)
 While llama-7B is very much capable of doing ner ,but since i have the constraints of GPU and and thus token size is very small for inference and hence the results are not that good
 Another Reason is that Due to constraints of GPU, i had to use quantization which may have affected the performance
