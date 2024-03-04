@@ -34,7 +34,7 @@ Another Reason is that Due to constraints of GPU, i had to use quantization whic
 While the spacy model is very high in performance , it has one limitation of smaller context .
 
 # RESULTS:
-In my opinion the spacy model have worked very good in determining the custom entities of the dataset than llama-7b and hence the Spacy model
+In my opinion the spacy model have worked very good in determining the custom entities of the dataset than llama-7b.
 Llama-7b  would have provided better results given that if I had the enough resources.
 
 
