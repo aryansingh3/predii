@@ -8,7 +8,7 @@ THE MODEL INFERENCE LINK:https://huggingface.co/spaces/aryan10022001/predii_ner
 
 llama model is stored here:https://huggingface.co/aryan10022001/llama-7b-train_quantized
 
-CUSTOM ENTITY RECOGNITION
+**CUSTOM ENTITY RECOGNITION
 
 
 In the automotive data analytics realm, extracting insights from vast data sets is crucial. With constant industry evolution driven by technology and consumer trends, precise data processing is essential. Custom entity recognition emerges as a key tool, enabling the identification and classification of specific entities within textual data.
