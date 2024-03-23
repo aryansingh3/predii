@@ -10,7 +10,7 @@ https://huggingface.co/aryan10022001/en_predii_ner
 
 ## THE MODEL INFERENCE LINK
 
-https://huggingface.co/spaces/aryan10022001/predii_ner
+https://huggingface.co/spaces/aryan10022001/aryan10022001-en_predii_ner
 
 ## llama model is stored here
 
